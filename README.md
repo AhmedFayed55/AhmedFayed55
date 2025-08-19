@@ -1,48 +1,68 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedFayed&style=flat&color=blue&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/AhmedFayed-grey?style=flat&logo=telegram)](https://t.me/YourTelegramUsername) <br>
+# 👋 أحمد فايد | Ahmed Fayed
+
+### 📱 Flutter Developer | 🛠 Clean Architecture Enthusiast | 🤝 Team Player
+
 </div>
 
-<hr/>
+---
 
-### 🚀 About Me
-- 👨‍💻 أنا **Ahmed Fayed** – Flutter Developer passionate about building clean, scalable, and user-friendly mobile applications.  
-- 📱 بشتغل على **Flutter** باستخدام clean architecture وstate management tools زي **Bloc & Provider**.  
-- ☁️ خبرة في **Firebase, REST APIs, Google OAuth, Hive, Retrofit, Dio**.  
-- 🛠️ بحب كتابة كود نظيف وقابل للتوسع + Unit Testing.  
-- 🌱 حالياً بتعلم **Advanced Flutter + CI/CD + App optimization**.  
-- 🎬 Fun fact: بحب السينما ومتابع جديد الـ tech.  
+## 🚀 About Me
+- 👨‍💻 أنا **Ahmed Fayed** – Flutter Developer passionate about building **scalable, maintainable, and user-friendly mobile apps**.  
+- 🔥 بخبرة عملية في تصميم وتطوير تطبيقات باستخدام **Clean Architecture** و **advanced state management**.  
+- ⚡ بحب كتابة كود نظيف، قابل للتوسع، وسهل الاختبار.  
+- 🌱 حالياً أركز على **performance optimization & CI/CD automation**.  
 
-<hr/>
+---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech & Tools
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=flat&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=flat&logo=flutter&logoColor=white)
-![Dio](https://img.shields.io/badge/Dio-000000?style=flat&logo=flutter&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-563D7C?style=flat&logo=android&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FFB300?style=flat&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+### 📌 Core Skills
+- **Flutter** (Cross-platform mobile development)  
+- **Dart** (Main language)  
+- **C++** (Problem Solving & Fundamentals)  
+
+### 🏗 Architecture & Patterns
+- **Clean Architecture**  
+- **Repository Pattern**  
+- **Dependency Injection**  
+- **Singleton Design Pattern**  
+- **SOLID Principles**  
+- **MVVM, MVI**  
+
+### ⚙️ State Management & Testing
+- **Bloc, Provider**  
+- **Unit Testing**  
+- **Widget Testing**  
+
+### 🌍 Features & Integrations
+- **Firebase (Auth, Firestore, Storage, Notifications)**  
+- **Google Maps & Location Services**  
+- **Payment Integration**  
+- **Localization & Theming**  
+- **Responsive UI Design**  
+
+### 🧑‍🤝‍🧑 Collaboration & Workflow
+- **Git & GitHub**  
+- **Scrum & Agile**  
+- **CI/CD (Continuous Integration & Deployment)**  
+- **Teamwork & Collaboration**  
+
+---
 
 ```dart
-// Flutter developer toolkit
+// Ahmed's Toolkit
 class AhmedFayed extends FlutterDev {
-  final myStack = {
-    "Languages": {"Dart", "Java", "C++", "Python"},
-    "Mobile": {"Flutter", "Android"},
+  final skills = {
+    "Languages": {"Dart", "C++"},
+    "Architecture": {"Clean Architecture", "Repository Pattern", "MVVM", "MVI", "SOLID"},
     "StateManagement": {"Bloc", "Provider"},
-    "Databases": {"Firebase", "SQLite", "Hive"},
-    "Networking": {"Dio", "Retrofit"},
-    "OtherTools": {"Git", "Figma", "Photoshop", "Linux"}
+    "Testing": {"Unit Testing", "Widget Testing"},
+    "Integrations": {"Firebase", "Google Maps", "Payments"},
+    "UI": {"Localization", "Theming", "Responsive UI"},
+    "OtherTools": {"Git", "GitHub", "CI/CD", "Scrum & Agile", "Teamwork"}
   };
 }
