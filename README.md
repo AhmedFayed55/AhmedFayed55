@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG05NG9jcTVza2s5ZW82eXJwY2s4cXhzNW1uZWkycDA2bTQxM3B5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Kc2q6n8X7nB2sZ7R4T/giphy.gif" 
-       width="260" 
-       alt="Mobile App Development"/>
 
-  ### 📱 Flutter Developer | 🛠 Clean Architecture Enthusiast | 🤝 Team Player
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
+
+# 👋 أحمد فايد | Ahmed Fayed
+### 📱 Flutter Developer | 🛠 Clean Architecture Enthusiast | 🤝 Team Player
 </div>
 
 ---
