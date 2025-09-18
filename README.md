@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
-
 # 👋 أحمد فايد | Ahmed Fayed
 ### 📱 Flutter Developer | 🛠 Clean Architecture Enthusiast | 🤝 Team Player
 </div>
